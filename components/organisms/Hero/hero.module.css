@@ -1,0 +1,17 @@
+.hero {
+  height: calc(100vh - 160px);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: -20px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  background-color: #f1f1f1;
+  border-bottom: 2px dashed #ddd;
+}
+/*# sourceMappingURL=hero.module.css.map */

@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,iBAAiB,CAAC;EAChB,MAAM,EAAE,mBAAmB;EAC3B,OAAO,EAAE,KAAK;EACd,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,MAAM;EAClB,aAAa,EAAE,eAAe;CAC/B",
+    "sources": [
+        "component-example.module.scss",
+        "../../../styles/global/_mixins.scss"
+    ],
+    "names": [],
+    "file": "component-example.module.css"
+}

@@ -1,0 +1,27 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #28282a;
+  color: #fff;
+  font-weight: 700;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    position: relative;
+
+    height: 80px;
+    padding: 0px 15px;
+  }
+  .navigation {
+    a {
+      color: #ffffff;
+    }
+  }
+}

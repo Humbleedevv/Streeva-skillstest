@@ -1,0 +1,10 @@
+.hero {
+  height: calc(100vh - 160px);
+  display: flex;
+  margin-top: -20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #f1f1f1;
+  border-bottom: 2px dashed #ddd;
+}

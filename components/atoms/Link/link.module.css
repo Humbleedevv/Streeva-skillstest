@@ -1,0 +1,17 @@
+.button {
+  color: #28282a;
+  text-decoration: none;
+}
+
+.button:hover, .button:focus, .button:active:not([disabled]) {
+  text-decoration: underline;
+}
+
+.button.primary {
+  color: #28282a;
+}
+
+.button.secondary {
+  color: #28282a;
+}
+/*# sourceMappingURL=link.module.css.map */

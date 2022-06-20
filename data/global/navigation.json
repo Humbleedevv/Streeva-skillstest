@@ -1,0 +1,4 @@
+{
+  "primary": [{ "label": "About", "url": "/about" }, { "label": "About", "url": "/about" }],
+  "secondary": [{ "label": "Contact", "url": "/contact" }]
+}
